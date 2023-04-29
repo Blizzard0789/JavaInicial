@@ -10,6 +10,7 @@ import java.util.List;
 /**
  *
  * @author spike
+ * Clase Carrito de compras
  */
 public class CarritoCompras {
     private List<Item> listaItem;
